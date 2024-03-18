@@ -52,7 +52,7 @@ body {
 }
 
 img.birthday {
-  max-height: 35vh;
+  max-height: 30vh;
 }
 
 .text {
@@ -65,7 +65,7 @@ img.birthday {
 }
 
 .space {
-  height: 100px;
+  height: 90px;
 }
 
 @keyframes fadeIn {
